@@ -2,11 +2,11 @@
 
 ## SETUP
 
-### INVENTÁRIO
+#### INVENTÁRIO
 
-### EQUIPAMENT
+#### EQUIPAMENTO
 
-### BARRA
+#### BARRA
 
 ## RUN
 
@@ -18,28 +18,33 @@
 
 ### HERBS
 
+1. Ectophial teleport (1)
+1. Trollheim teleport (2)
+1. Cabagge port (right-click 3 -> Cabagge port)
+1. Prifddinas (4 -> 5)
+1. Manor farm (5)
+1. Wild herb patch (right-click 6 -> Herb patch)
+1. Mystical sand (7)
+1. Catherby teleport (8)
 
+### COCONUTS
+1. Catherby teleport (8)
+1. Cabagge port (right-click 3 -> Cabagge port)
+   - Spirit tree: Brimhaven (8)
+1. Spirit tree: Gnome Stronghold (2)
+1. Spirit tree: Gnome Village (1)
+   - Saia pela cerca
+   - Siga XPTO
+1. Glider para Prifdinnas (8)
+1. Lletya (4 -> 1)
+1. Herblore habitat
 
+### MUSHROOMS
+1. Quiver (7)
+1. Canifis (Home teleport -> alt+c)
 
-ectophial
-giant ent
-ativa aura
-bebe gole de juju
-teleport to trollheim
-cabagge port
-prifddinas (5)
-manor farm (chapeu ou teleporte)
-wild sword
-mystical sand
-catherby
-->> termina erva e começa coco <<-
-catherby
-cabagge port spirt tree brimhaven (8)
-spirit tree gnome stronghold (2)
-spirt tree gnome village (1)
-glider pra prifdinnas (8)
-juju farm teleport
-lletya (1)
-->> termina coco e começa cogumelo <<-
-quiver (7)
-home teleport caninfis (alt+c)
+### JUJU
+
+### CACTUS
+
+### MANGA
