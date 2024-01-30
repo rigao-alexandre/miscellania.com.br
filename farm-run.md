@@ -18,14 +18,22 @@
 
 ### HERBS
 
-1. Ectophial teleport (1)
-1. Trollheim teleport (2)
-1. Cabagge port (right-click 3 -> Cabagge port)
-1. Prifddinas (4 -> 5)
-1. Manor farm (5)
-1. Wild herb patch (right-click 6 -> Herb patch)
-1. Mystical sand (7)
-1. Catherby teleport (8)
+1. Port Phasmatys
+   - Ectophial (keybind 1)
+1. Troll Stronghold
+   - Trollheim teleport (keybind 2)
+1. Falador
+   - Explorer's ring (right-click 3 -> Cabagge port)
+1. Prifddinas
+   - Attuned crystal teleport seed (keybind 4 -> 5)
+1. Ardougne
+   - Manor farm teleport (keybind 5)
+1. Wilderness
+   - Wilderness sword (right-click 6 -> Herb patch)
+1. Al Kharid
+   - Mystical sand seed (keybind 7)
+1. Catherby
+   - Catherby teleport (keybind 8)
 
 ### COCONUTS
 1. Catherby teleport (8)
